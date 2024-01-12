@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ALOKATOR",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALOKATOR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALOKATOR-Debug-0a501cd84aeff4880f78.json",
+					"name" : "ALOKATOR",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/macha/OneDrive/Pulpit/SO2/1.ZARZADZANIE PAMIECIA/ALOKATOR/cmake-build-debug",
+		"source" : "C:/Users/macha/OneDrive/Pulpit/SO2/1.ZARZADZANIE PAMIECIA/ALOKATOR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/macha/OneDrive/Pulpit/SO2/1.ZARZADZANIE PAMIECIA/ALOKATOR/cmake-build-debug/CMakeFiles/ALOKATOR.dir
+C:/Users/macha/OneDrive/Pulpit/SO2/1.ZARZADZANIE PAMIECIA/ALOKATOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macha/OneDrive/Pulpit/SO2/1.ZARZADZANIE PAMIECIA/ALOKATOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
